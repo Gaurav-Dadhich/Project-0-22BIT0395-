@@ -92,7 +92,7 @@ $ git reset
 ### 17. Git rm command.
 It can be used to remove files from the index and the working directory.
 #### syntax:
-4 git rm
+$ git rm
 
 ### 18. Git stash command.
 This command stashes changes for later use.
