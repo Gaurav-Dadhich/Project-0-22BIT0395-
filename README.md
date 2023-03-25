@@ -37,7 +37,7 @@ $ git commit -a
 ### 6. Git status command.
 The status command is used to display the state of the working directory and the staging area. It allows you to see which changes have been staged, which haven't, and which files aren?t being tracked by Git.
 #### syntax:
-$ git status [-s] [-u[]] [--ignored] [--ignore-submodules[=]] [--] [...]
+$ git status 
 
 ### 7. Git push command.
 It is used to upload local repository content to a remote repository.
